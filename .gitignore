@@ -1,3 +1,9 @@
 *.o
 *.a
-CmakeFiles/
+CMakeFiles/
+build/
+.vscode/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+main
